@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+    <RootNamespace>Piksel.Graphics.ColourPicker</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>ColourPicker.WinForms</PackageId>
+    <Authors>Nils Måsén</Authors>
+    <Company>piksel bitworks</Company>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/piksel/Colour</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <AssemblyVersion>0.3.0.1</AssemblyVersion>
+    <FileVersion>0.3.0.1</FileVersion>
+    <Version>0.3.0</Version>
+    <Description></Description>
+    <PackageIconUrl>https://github.com/piksel/Colour/raw/master/res/logo.png</PackageIconUrl>
+    <PackageProjectUrl>https://github.com/piksel/Colour</PackageProjectUrl>
+
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
+    <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+    <Product>Piksel.Graphics.ColourPicker</Product>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Colour" Version="0.3.0" />
+    <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0-beta-63127-02" PrivateAssets="All" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>

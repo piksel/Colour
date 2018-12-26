@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<swatches>
+	<swatch id="GeneralRgb">
+		<Colours>
+			<Colour red="255" green="255" blue="255">White</Colour>
+			<Colour red="230" green="230" blue="230">10% Gray</Colour>
+			<Colour red="218" green="218" blue="218">15% Gray</Colour>
+			<Colour red="205" green="205" blue="205">20% Gray</Colour>
+			<Colour red="193" green="193" blue="193">25% Gray</Colour>
+			<Colour red="180" green="180" blue="180">30% Gray</Colour>
+			<Colour red="167" green="167" blue="167">35% Gray</Colour>
+			<Colour red="154" green="154" blue="154">40% Gray</Colour>
+			<Colour red="142" green="142" blue="142">45% Gray</Colour>
+			<Colour red="129" green="129" blue="129">50% Gray</Colour>
+			<Colour red="115" green="115" blue="115">55% Gray</Colour>
+			<Colour red="102" green="102" blue="102">60% Gray</Colour>
+			<Colour red="89" green="89" blue="89">65% Gray</Colour>
+			<Colour red="75" green="75" blue="75">70% Gray</Colour>
+			<Colour red="61" green="61" blue="61">75% Gray</Colour>
+			<Colour red="48" green="48" blue="48">80% Gray</Colour>
+			<Colour red="33" green="33" blue="33">85% Gray</Colour>
+			<Colour red="19" green="19" blue="19">90% Gray</Colour>
+			<Colour red="5" green="5" blue="5">95% Gray</Colour>
+			<Colour red="0" green="0" blue="0">Black</Colour>
+			<Colour red="255" green="0" blue="0">RGB Red</Colour>
+			<Colour red="246" green="150" blue="121">Pastel Red</Colour>
+			<Colour red="242" green="108" blue="79">Light Red</Colour>
+			<Colour red="237" green="28" blue="36">Pure Red</Colour>
+			<Colour red="158" green="11" blue="14">Dark Red</Colour>
+			<Colour red="121" green="0" blue="0">Darker Red</Colour>
+			<Colour red="123" green="46" blue="0">Darker Red Orange</Colour>
+			<Colour red="160" green="65" blue="13">Dark Red Orange</Colour>
+			<Colour red="242" green="101" blue="34">Pure Red Orange</Colour>
+			<Colour red="246" green="142" blue="86">Light Red Orange</Colour>
+			<Colour red="249" green="173" blue="129">Pastel Red Orange</Colour>
+			<Colour red="125" green="73" blue="0">Darker Yellow Orange</Colour>
+			<Colour red="163" green="98" blue="9">Dark Yellow Orange</Colour>
+			<Colour red="247" green="148" blue="29">Pure Yellow Orange</Colour>
+			<Colour red="251" green="175" blue="93">Light Yellow Orange</Colour>
+			<Colour red="253" green="198" blue="137">Pastel Yellow Orange</Colour>
+			<Colour red="255" green="247" blue="153">Pastel Yellow</Colour>
+			<Colour red="255" green="245" blue="104">Light Yellow</Colour>
+			<Colour red="255" green="242" blue="0">Pure Yellow</Colour>
+			<Colour red="255" green="255" blue="0">RGB Yellow</Colour>
+			<Colour red="171" green="160" blue="0">Dark Yellow</Colour>
+			<Colour red="130" green="123" blue="0">Darker Yellow</Colour>
+			<Colour red="64" green="102" blue="24">Darker Pea Green </Colour>
+			<Colour red="89" green="133" blue="39">Dark Pea Green</Colour>
+			<Colour red="141" green="198" blue="63">Pure Pea Green</Colour>
+			<Colour red="172" green="211" blue="115">Light Pea Green</Colour>
+			<Colour red="196" green="223" blue="155">Pastel Pea Green</Colour>
+			<Colour red="0" green="94" blue="32">Pastel Yellow Green</Colour>
+			<Colour red="25" green="123" blue="48">Light Yellow Green</Colour>
+			<Colour red="57" green="181" blue="74">Pure Yellow Green</Colour>
+			<Colour red="124" green="197" blue="118">Dark Yellow Green</Colour>
+			<Colour red="163" green="211" blue="156">Darker Yellow Green</Colour>
+			<Colour red="0" green="88" blue="38">Darker Green</Colour>
+			<Colour red="0" green="114" blue="54">Dark Green</Colour>
+			<Colour red="0" green="166" blue="81">Pure Green</Colour>
+			<Colour red="0" green="255" blue="0">RGB Green</Colour>
+			<Colour red="60" green="184" blue="120">Light Green</Colour>
+			<Colour red="130" green="202" blue="156">Pastel Green</Colour>
+			<Colour red="122" green="204" blue="200">Pastel Green Cyan</Colour>
+			<Colour red="28" green="187" blue="180">Light Green Cyan</Colour>
+			<Colour red="0" green="169" blue="157">Pure Green Cyan</Colour>
+			<Colour red="0" green="116" blue="107">Dark Green Cyan</Colour>
+			<Colour red="0" green="89" blue="82">Darker Green Cyan</Colour>
+			<Colour red="0" green="91" blue="127">Darker Cyan</Colour>
+			<Colour red="0" green="118" blue="163">Dark Cyan</Colour>
+			<Colour red="0" green="174" blue="239">Pure Cyan</Colour>
+			<Colour red="0" green="191" blue="243">Light Cyan</Colour>
+			<Colour red="109" green="207" blue="246">Pastel Cyan</Colour>
+			<Colour red="0" green="255" blue="255">RGB Cyan</Colour>
+			<Colour red="125" green="167" blue="217">Pastel Cyan Blue</Colour>
+			<Colour red="68" green="140" blue="203">Light Cyan Blue</Colour>
+			<Colour red="0" green="114" blue="188">Pure Cyan Blue</Colour>
+			<Colour red="0" green="74" blue="128">Dark Cyan Blue</Colour>
+			<Colour red="0" green="54" blue="99">Darker Cyan Blue</Colour>
+			<Colour red="0" green="33" blue="87">Darker Blue</Colour>
+			<Colour red="0" green="52" blue="113">Dark Blue</Colour>
+			<Colour red="0" green="84" blue="166">Pure Blue</Colour>
+			<Colour red="0" green="0" blue="255">RGB Blue</Colour>
+			<Colour red="86" green="116" blue="185">Light Blue</Colour>
+			<Colour red="135" green="129" blue="189">Pastel Blue</Colour>
+			<Colour red="161" green="134" blue="190">Pastel Blue Violet</Colour>
+			<Colour red="96" green="92" blue="168">Light Blue Violet</Colour>
+			<Colour red="46" green="49" blue="146">Pure Blue Violet</Colour>
+			<Colour red="27" green="20" blue="100">Dark Blue Violet</Colour>
+			<Colour red="13" green="0" blue="76">Darker Blue Violet</Colour>
+			<Colour red="50" green="0" blue="75">Darker Violet</Colour>
+			<Colour red="68" green="14" blue="98">Dark Violet</Colour>
+			<Colour red="102" green="45" blue="145">Pure Violet</Colour>
+			<Colour red="133" green="96" blue="168">Light Violet</Colour>
+			<Colour red="161" green="134" blue="190">Pastel Violet</Colour>
+			<Colour red="189" green="140" blue="191">Pastel Violet Magenta</Colour>
+			<Colour red="168" green="100" blue="168">Light Violet Magenta</Colour>
+			<Colour red="146" green="39" blue="143">Pure Violet Magenta</Colour>
+			<Colour red="99" green="4" blue="96">Dark Violet Magenta</Colour>
+			<Colour red="75" green="0" blue="73">Darker Violet Magenta</Colour>
+			<Colour red="123" green="0" blue="70">Darker Magenta</Colour>
+			<Colour red="158" green="0" blue="93">Dark Magenta</Colour>
+			<Colour red="236" green="0" blue="140">Pure Magenta</Colour>
+			<Colour red="240" green="110" blue="170">Light Magenta</Colour>
+			<Colour red="244" green="154" blue="193">Pastel Magenta</Colour>
+			<Colour red="255" green="0" blue="255">RGB Magenta</Colour>
+			<Colour red="245" green="152" blue="157">Pastel Magenta Red</Colour>
+			<Colour red="242" green="109" blue="125">Light Magenta Red</Colour>
+			<Colour red="237" green="20" blue="91">Pure Magenta Red</Colour>
+			<Colour red="158" green="0" blue="57">Dark Magenta Red</Colour>
+			<Colour red="122" green="0" blue="38">Darker Magenta Red</Colour>
+			<Colour red="199" green="178" blue="153">Pale Cool Brown</Colour>
+			<Colour red="153" green="134" blue="117">Light Cool Brown</Colour>
+			<Colour red="115" green="99" blue="87">Medium Cool Brown</Colour>
+			<Colour red="83" green="71" blue="65">Dark Cool Brown</Colour>
+			<Colour red="54" green="47" blue="45">Darker Cool Brown</Colour>
+			<Colour red="198" green="156" blue="109">Pale Warm Brown</Colour>
+			<Colour red="166" green="124" blue="82">Light Warm Brown</Colour>
+			<Colour red="140" green="98" blue="57">Medium Warm Brown</Colour>
+			<Colour red="117" green="76" blue="36">Dark Warm Brown</Colour>
+			<Colour red="96" green="57" blue="19">Darker Warm Brown</Colour>
+		</Colours>
+	</swatch>
+</swatches>
