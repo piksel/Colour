@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Drawing;
 using System.Text;
-using System.Text.RegularExpressions;
 
 namespace Piksel.Graphics
 {
     public partial struct Colour
     {
-         uint value;
+        uint value;
 
         public byte Red => (byte)(value >> RedShift);
         public byte Green => (byte)(value >> GreenShift);
@@ -37,7 +35,7 @@ namespace Piksel.Graphics
         public static Colour FromString(string input)
             => input[0] == '#' ? FromHex(input) : FromRgbaString(input);
 
-        
+
 
         public string ToHex(HexPrefix prefix = HexPrefix.Hash, HexFormatAlpha alpha = HexFormatAlpha.Auto)
         {
@@ -46,9 +44,9 @@ namespace Piksel.Graphics
             if (prefix == HexPrefix.Hash) sb.Append('#');
             else if (prefix == HexPrefix.Ox) sb.Append("0x");
 
-            sb.Append(Convert.ToString(value & AlphaMask, 16));
+            sb.Append(Convert.ToString(value & AlphaMask, 16).PadLeft(6, '0'));
 
-            if (alpha == HexFormatAlpha.Always 
+            if (alpha == HexFormatAlpha.Always
                 || (alpha == HexFormatAlpha.Auto && (value & Opaque) != Opaque))
                 sb.Append(Convert.ToString(value >> AlphaShift, 16));
 
@@ -58,10 +56,5 @@ namespace Piksel.Graphics
         public override string ToString()
             => ToHex(HexPrefix.Hash, HexFormatAlpha.Auto);
 
-        public static implicit operator Color(Colour colour)
-            => Color.FromArgb(unchecked((int)colour.value));
-
-        public static implicit operator Colour(Color color)
-            => Colour.FromArgb(unchecked((uint)color.ToArgb()));
     }
 }
